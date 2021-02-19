@@ -1,2 +1,5 @@
-# training360quiz
-training360quiz
+# Kvíz kérdések
+
+---
+permalink: /index.html
+---
